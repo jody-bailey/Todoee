@@ -4,6 +4,7 @@
 //
 //  Created by Jody Bailey on 1/7/18.
 //  Copyright © 2018 Jody Bailey. All rights reserved.
+//  This is using Codeable protocol to store data locally.
 //
 
 import UIKit
